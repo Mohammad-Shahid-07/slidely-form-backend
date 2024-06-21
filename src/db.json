@@ -1,44 +1,9 @@
 [
   {
-    "Name": "asd",
-    "Email": "asd",
-    "Phone": "asd",
-    "GitHubLink": "asd",
-    "StopwatchTime": "00:00:01"
-  },
-  {
-    "Name": "ew",
-    "Email": "asd",
-    "Phone": "asd",
-    "GitHubLink": "amsd",
-    "StopwatchTime": "00:00:09"
-  },
-  {
-    "Name": "Shahid",
-    "Email": "ddas@gmail.com",
-    "Phone": "70144",
-    "GitHubLink": "asjdnk.cpm",
-    "StopwatchTime": "00:00:44"
-  },
-  {
-    "Name": "Mohammad Shahid",
-    "Email": "noemail@gmail.com",
-    "Phone": "123",
-    "GitHubLink": "no.com",
-    "StopwatchTime": "00:00:05"
-  },
-  {
-    "Name": "asd",
-    "Email": "dasddas@g.com",
-    "Phone": "asddas",
-    "GitHubLink": "asddas",
-    "StopwatchTime": "00:00:22"
-  },
-  {
-    "Name": "asd",
-    "Email": "asd@asd.com",
-    "Phone": "asd",
-    "GitHubLink": "asd",
-    "StopwatchTime": "00:00:05"
+    "Name": "John Doe",
+    "Email": "john.doe@example.com",
+    "Phone": "123-456-7890",
+    "GitHubLink": "https://github.com/johndoe",
+    "StopwatchTime": "00:02:15"
   }
 ]
